@@ -21,7 +21,7 @@ An automated ETL and BI platform that extracts data, processes it with n8n workf
 ## Project Overview
 
 
-![Project Overview](screenshots/preview.png)
+![Project Overview](preview(2).png)
 
 ---
 
